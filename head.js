@@ -10,4 +10,6 @@ const head = function(arr){
   return arr[0];
 }
 
+
 assertEqual (head([]),undefined);
+console.log([1,2,3] === [1,2,3]);
