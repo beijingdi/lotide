@@ -13,9 +13,9 @@ console.assert(sum(1, 20) === 3); // bad / incorrect assertion, and we see it fa
 // FUNCTION IMPLEMENTATION
 const assertEqual = function(actual, expected) {
   if (actual === expected) {
-    console.log("😍😍😍Assertion passed: " + actual + " === " + "expected");
+    console.log(`😍😍😍Assertion passed: ${actual}! === ${expected}!`);
   } else {
-    console.log("🙃🙃🙃Assertion Failed: " + actual + " !== " + "Bootcamp");
+    console.log(`🙃🙃🙃Assertion Failed: ${actual}! !== ${expected}!`);
   }
 };
 
