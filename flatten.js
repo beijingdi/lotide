@@ -9,3 +9,12 @@ const flatten = function(inputArray) {
 };
 
 console.log(flatten([1,2,[3,[4,5]]]));
+
+/*for (let i = 0; i < array.length; i++){
+    if an element is an array{
+      array = array.splice(all elements before this element).concat(this element).concat(array.splice(all elements after this element))
+      i--
+    }
+  return array
+}
+*/
