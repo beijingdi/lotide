@@ -14,14 +14,12 @@ console.assert(sum(1, 20) === 3); // bad / incorrect assertion, and we see it fa
 const assertEqual = function(actual, expected) {
   if (actual === expected) {
     console.log(`😍😍😍Assertion passed: ${actual}! === ${expected}!`);
-  } else {
+  } 
+  if (actual !== expected) {
     console.log(`🙃🙃🙃Assertion Failed: ${actual}! !== ${expected}!`);
   }
 };
 
-assertEqual("Lighthouse Labs", "Bootcamp");
-assertEqual(1, 1);
-
-
 //Assertion Failed: Lighthouse Labs !== Bootcamp
 //Assertion Passed: 1 === 1
+module.exports = assertEqual;

@@ -1,15 +1,5 @@
-const assertEqual = function(actual, expected) {
-  if (actual === expected) {
-    console.log(`😍😍😍Assertion passed: ${actual} === ${expected}`);
-  } else {
-    console.log(`🙃🙃🙃Assertion Failed: ${actual} !== ${expected}`);
-  }
-};
-
+const assertEqual = require('./assertEqual.js');
 const head = function(arr){
   return arr[0];
-}
-
-
-assertEqual (head([]),undefined);
-console.log([1,2,3] === [1,2,3]);
+};
+module.exports = head;
