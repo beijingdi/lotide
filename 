@@ -1,0 +1,131 @@
+[33mcommit e98e8e3b8e46fe575001e9219b6609d83c52e3d2[m
+Author: Di <dwu233@gmail.com>
+Date:   Mon Apr 11 18:36:49 2022 +0000
+
+    adding gitignore
+
+[33mcommit b97d37faa20f405080f4664fba9baa278e9b973f[m
+Author: Di <dwu233@gmail.com>
+Date:   Mon Apr 11 18:35:05 2022 +0000
+
+    adding gitignore
+
+[33mcommit 848214c6d0bbf340146b092d02dae375d415883c[m
+Author: Di <dwu233@gmail.com>
+Date:   Mon Apr 11 17:09:14 2022 +0000
+
+    utilizing assert.deepEqual from chai
+
+[33mcommit cd1701b35c1f1e1d040adcf43dd2f7e051ae68f0[m
+Author: Di <dwu233@gmail.com>
+Date:   Mon Apr 11 02:51:06 2022 +0000
+
+    refactored eqArrays.js
+
+[33mcommit 7c899b71c0f61947c76138cb608705e969353eac[m
+Author: Di <dwu233@gmail.com>
+Date:   Mon Apr 11 02:42:29 2022 +0000
+
+    refactored tail
+
+[33mcommit 4bcd1f2fce77b3b59c6590cc39b6b8250ad95d8c[m
+Author: Di <dwu233@gmail.com>
+Date:   Mon Apr 11 02:18:17 2022 +0000
+
+    refactored assertEqual.js and head.js
+
+[33mcommit cb63c1541ba565e962fd3387544bf9539418c240[m
+Author: Di <dwu233@gmail.com>
+Date:   Thu Apr 7 04:09:19 2022 +0000
+
+    add
+
+[33mcommit 5367f8e23292c247baf694bd1172bea2c9293620[m
+Author: Di <dwu233@gmail.com>
+Date:   Wed Apr 6 21:44:23 2022 +0000
+
+    add
+
+[33mcommit b084fd4ecfa5166b1e5a81f0b4cf5d61de149850[m
+Author: Di <dwu233@gmail.com>
+Date:   Wed Apr 6 20:47:38 2022 +0000
+
+    add
+
+[33mcommit 6e38ba682e48f2eec3de3d185a59c24b7f1c3ea1[m
+Author: Di <dwu233@gmail.com>
+Date:   Wed Apr 6 20:24:06 2022 +0000
+
+    add
+
+[33mcommit 85f34c200ac62353987f56b91a7e0afb8eafa64c[m
+Author: Di <dwu233@gmail.com>
+Date:   Wed Apr 6 19:55:24 2022 +0000
+
+    add
+
+[33mcommit af5103c79a5d77c736dc83c88ab127731eaa3623[m
+Author: Di <dwu233@gmail.com>
+Date:   Wed Apr 6 19:38:51 2022 +0000
+
+    add
+
+[33mcommit 57e63421a726bf7b13a847c391b099c322394b8d[m
+Author: Di <dwu233@gmail.com>
+Date:   Wed Apr 6 12:44:42 2022 +0000
+
+    middle
+
+[33mcommit 32a843ca703b491681dc914e65753f352b162f55[m
+Author: Di <dwu233@gmail.com>
+Date:   Tue Apr 5 23:59:35 2022 +0000
+
+    add
+
+[33mcommit a59d695dd2b704d55dd5b5de97b88a932e5c616b[m
+Author: Di <dwu233@gmail.com>
+Date:   Tue Apr 5 22:12:24 2022 +0000
+
+    adding file
+
+[33mcommit 0433281204d8d0e17019d2c985d91b7c906cb475[m
+Author: Di <dwu233@gmail.com>
+Date:   Tue Apr 5 20:26:21 2022 +0000
+
+    without
+
+[33mcommit 5501b508fe500a317663dfca8c9514e03d1e12ec[m
+Author: Di <dwu233@gmail.com>
+Date:   Tue Apr 5 19:55:49 2022 +0000
+
+    add
+
+[33mcommit 421a753ea66c34ae3746eca36531195c45ccdd8f[m
+Author: Di <dwu233@gmail.com>
+Date:   Tue Apr 5 19:21:50 2022 +0000
+
+    upload
+
+[33mcommit 157d13e6eca74259327accd0cf97c364f0be97e3[m
+Author: Di <dwu233@gmail.com>
+Date:   Tue Apr 5 05:45:48 2022 +0000
+
+    day 1 done yay
+
+[33mcommit a60b16b3073b44af6809bc9238e3970c586534c5[m
+Author: Di <dwu233@gmail.com>
+Date:   Mon Apr 4 20:08:58 2022 +0000
+
+    tail.js
+
+[33mcommit 150bb6a9b15aab6338efac070065f510acc8e457[m
+Author: Di <dwu233@gmail.com>
+Date:   Mon Apr 4 19:53:12 2022 +0000
+
+    head.js
+
+[33mcommit 7e072abab11441d624d27a3d8bd327649146f614[m
+Author: Di <dwu233@gmail.com>
+Date:   Mon Apr 4 19:21:01 2022 +0000
+
+    assert equal
