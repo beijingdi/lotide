@@ -8,5 +8,6 @@ const letterPositions = function(str) {
   return letterIndex;
 };
 
-console.log(letterPositions("Woody"));
-console.log(letterPositions("Woody")["o"]);
+//console.log(letterPositions("Woody"));
+//console.log(letterPositions("Woody")["o"]);
+module.exports = letterPositions;

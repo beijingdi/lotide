@@ -6,10 +6,11 @@ const map = function(array, callback) {
   return results;
 };
 
+module.exports = map;
 
-const words = ["ground", "control", "to", "major", "tom"];
+//const words = ["ground", "control", "to", "major", "tom"];
 
-console.log(map(words, word => word[0]));
+//console.log(map(words, word => word[0]));
 
 
 

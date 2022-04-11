@@ -8,8 +8,10 @@ const eqObjects = function(object1, object2) {
     return true;
   }
 };
+
+module.exports = eqObjects;
   
-const assertObjectsEqual = function(object1,object2) {
+/*const assertObjectsEqual = function(object1,object2) {
   const actualObjStr = inspect(object1);
   const expectObjStr = inspect(object2);
   const res = eqObjects(object1, object2);
@@ -18,12 +20,13 @@ const assertObjectsEqual = function(object1,object2) {
     assertionEqualStr = `🛑🛑🛑 Assertion Failed: ${actualObjStr} !== ${expectObjStr}`;
   }
   console.log(assertionEqualStr);
-};
+};*/
+
 
 
   
 
-assertObjectsEqual({a:1,b:2},{b:2,a:1});
-assertObjectsEqual({a:1},{b:2,a:1});
-assertObjectsEqual({a:1,b:"2"},{b:2,a:1});
-assertObjectsEqual({a:1},{a:1});
+//assertObjectsEqual({a:1,b:2},{b:2,a:1});
+//assertObjectsEqual({a:1},{b:2,a:1});
+//assertObjectsEqual({a:1,b:"2"},{b:2,a:1});
+//assertObjectsEqual({a:1},{a:1});

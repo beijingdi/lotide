@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@swordi/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "a clone to loDash",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"

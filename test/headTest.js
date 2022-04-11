@@ -1,10 +1,5 @@
-/*const head = require('../head');
-const assertEqual = require('../assertEqual');
-assertEqual(head([]),undefined);
-assertEqual(head([1,2,3],1));*/
-
 const assert = require('chai').assert;
-const head   = require('../head');
+const { head }  = require('../');  //same with require("../"); 
 
 describe("#head", () => {
   it("returns 1 for [1, 2, 3]", () => {

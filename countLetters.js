@@ -6,4 +6,5 @@ function countLetters(str) {
   return letterCounter;
 }
 
-console.log(countLetters("woody"));
+//console.log(countLetters("woody"));
+module.exports = countLetters;

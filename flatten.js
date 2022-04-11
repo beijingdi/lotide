@@ -8,7 +8,7 @@ const flatten = function(inputArray) {
   return inputArray;
 };
 
-console.log(flatten([1,2,[3,[4,5]]]));
+/*console.log(flatten([1,2,[3,[4,5]]]));*/
 
 /*for (let i = 0; i < array.length; i++){
     if an element is an array{
@@ -18,3 +18,5 @@ console.log(flatten([1,2,[3,[4,5]]]));
   return array
 }
 */
+
+module.exports = flatten;
