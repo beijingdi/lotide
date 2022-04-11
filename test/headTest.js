@@ -1,4 +1,4 @@
-//const assertEqual = require('../assertEqual');
 const head = require('../head');
+const assertEqual = require('../assertEqual');
 assertEqual(head([]),undefined);
 assertEqual(head([1,2,3],1));
